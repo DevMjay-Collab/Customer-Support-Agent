@@ -1,0 +1,1 @@
+"""Single-workspace business configuration."""
